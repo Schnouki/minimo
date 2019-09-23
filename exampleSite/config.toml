@@ -85,6 +85,7 @@ telegram = "MunifTanjim"
 google_scholar = "qc6CJjYAAAAJ"
 youtube = "UCT-U0rNerYxItGcuoPX-WYA"
 mastodon = ""
+git = ""
 
 [params.comments]
 enable = false
